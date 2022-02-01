@@ -20,3 +20,4 @@ print(output_d)
 print(output_e)
 
 #:d로 적을 땐 매개변수로 정수만 올 수 있음 
+#특정 칸 원할 때는 숫자 적기 
