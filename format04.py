@@ -15,3 +15,5 @@ print(output_k)
 print(output_l)
 print(output_m)
 
+#숫자 앞에 0 넣으면 0으로 채우기 가능 
+#기호 앞으로 밀 땐 =부터 =+

@@ -19,4 +19,4 @@ print("# 빈칸을 0으로 채우기")
 print(output_d)
 print(output_e)
 
-#
+#:d로 적을 땐 매개변수로 정수만 올 수 있음 
